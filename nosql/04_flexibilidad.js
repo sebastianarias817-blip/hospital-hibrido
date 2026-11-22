@@ -1,0 +1,1 @@
+use("hospital_telemetria"); printjson(db.telemetria.find({ alerta: { $exists: true } }).limit(5).toArray());

@@ -1,0 +1,1 @@
+use("hospital_telemetria"); db.telemetria.createIndex({ paciente_id: 1 });

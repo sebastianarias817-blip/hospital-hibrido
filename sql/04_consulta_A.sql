@@ -1,0 +1,1 @@
+EXPLAIN ANALYZE SELECT AVG(frecuencia_cardiaca) FROM telemetria_pg WHERE id_paciente = 10;

@@ -1,0 +1,1 @@
+CREATE INDEX idx_tel_paciente ON telemetria_pg(id_paciente);
