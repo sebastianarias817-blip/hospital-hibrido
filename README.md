@@ -1,7 +1,7 @@
 # Ecosistema hibrido hospitalario (PostgreSQL + MongoDB)
 
 Curso: Bases de Datos II - Unidad 3
-Integrantes: (escribir nombres)
+Integrantes: Sebastian Arias Saldarriaga
 
 ## Arquitectura
 - PostgreSQL (ACID): paciente, medico, hospitalizacion.
